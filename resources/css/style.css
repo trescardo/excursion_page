@@ -27,10 +27,13 @@ body {
 }
 
 .download-link {
+  background-color: transparent;
   color: aquamarine;
-  text-decoration: underline;
+  border: 2px solid aquamarine;
+  border-radius: 10px;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 14px;
+  padding: 0.5%;
   font-family: Verdana;
 }
 
